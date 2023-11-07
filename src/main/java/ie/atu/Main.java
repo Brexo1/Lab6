@@ -22,6 +22,7 @@ public class Main {
 
         for (int value: anArray){
             System.out.println("Element at index  " + indexValue + " : " + value);
+            indexValue++;
         }
     }
 }
